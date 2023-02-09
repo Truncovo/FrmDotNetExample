@@ -16,7 +16,6 @@ namespace FrmDotNetExample.Helpers
     {
         private static HttpServerUtility _server;
         private static string _html;
-        private static readonly Dictionary<string, string> Templates = new Dictionary<string, string>();
         public static void Init(HttpServerUtility server)
         {
 
@@ -24,25 +23,10 @@ namespace FrmDotNetExample.Helpers
             
         }
 
-
         public static HtmlString RenderReactPage()
         {
             return new HtmlString(_html);
             
-        }
-
-        public static string PublicUrl
-        {
-            get
-            {
-               return "/Static/PDFViewerUI";
-            }
-        }
-
-
-        private static string GetSolutionDir()
-        {
-            return Path.GetDirectoryName(Path.GetDirectoryName(_server.MapPath("~")));
         }
     }
 
