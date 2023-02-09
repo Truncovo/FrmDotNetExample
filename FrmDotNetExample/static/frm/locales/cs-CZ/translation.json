@@ -1,0 +1,90 @@
+{
+  "button": {
+    "showMore": "zobrazit další",
+    "showLess": "skrýt"
+  },
+  "refresh": {
+    "on": "Aktualizováno "
+  },
+  "layout": {
+    "title": "Domovská stránlka",
+    "placeholder": "Věckdyžtamnicnení"
+  },
+  "form": {
+    "formErrors": {
+      "maxLength": "Maximální délka je {{value}} znaků.",
+      "required": "Toto pole je povinné."
+    },
+    "save": "Uložit"
+  },
+  "page": {
+    "home": "Domů",
+    "fanshop": "Fanshop",
+    "cashless": "Cashless",
+    "profile": "Můj účet",
+    "classic-tickets": "Vstupenky",
+    "season-pass": "Permanentky",
+    "news": "Zprávy"
+  },
+  "user": {
+    "firstName": "Jméno",
+    "lastName": "Příjmení",
+    "email": "E-mail",
+    "sex": "Pohlaví",
+    "streetAddress": "Adresa",
+    "city": "Město",
+    "zipCode": "PSČ",
+    "phone1": "Telefon 1",
+    "phone2": "Telefon 2",
+    "dateOfBirth": "Datum narození",
+    "sexItems": {
+      "male": "Muž",
+      "female": "Žena"
+    }
+  },
+  "seasonPass": {
+    "verifyReturnQuestion": "Opravdu chcete vrátit tuto vstupenku?",
+    "noData": "Žádná relevantní data nebyla nalezena.",
+    "ticketNumber": "Čislo permanentky: ",
+    "pastMatches": "Uplynulé zápasy",
+    "date": "Datum",
+    "time": "Čas",
+    "place": "Místo"
+  },
+  "snackbar": {
+    "logout": "Byli jste úspěšně odhlášeni.",
+    "success": "Úkol byl úspěšně dokončen."
+  },
+  "footer": {
+    "partners": "OFICIALNÍ PARTNEŘI",
+    "contacts": "Kontakty",
+    "terms-and-conditions": "Obchodní podmínky",
+    "personal-data": "Ochrana osobních údajů"
+  },
+  "loadingScreens": {
+    "layout": "Načítám data..."
+  },
+  "main": {
+    "logout": "Odhlásit se"
+  },
+  "languages": {
+    "cs-CZ": "Čeština",
+    "sk": "Slovenčina",
+    "en": "English"
+  },
+  "account": {
+    "password": "Heslo"
+  },
+  "newsPage": {
+    "noNews": "Zatím nemáte žádné zprávy.",
+    "collapse": "sbalit",
+    "read": "číst dále",
+    "news": "Novinka!"
+  },
+  "home": {
+    "welcome": "Vítej v týmu, ",
+    "happy": "Vše nejlepší k narozeninám!!!",
+    "buttonOpen": "Zapnout ohňostroj",
+    "buttonClose": "Vypnout ohňostroj"
+  }
+}

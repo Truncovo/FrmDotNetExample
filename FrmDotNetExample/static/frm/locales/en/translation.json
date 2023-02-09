@@ -1,0 +1,90 @@
+{
+  "button": {
+    "showMore": "Show more",
+    "showLess": "Show less"
+  },
+  "refresh": {
+    "on": "Refreshed on "
+  },
+  "layout": {
+    "title": "Homepage",
+    "placeholder": "Layout"
+  },
+  "form": {
+    "formErrors": {
+      "maxLength": "Max length is {{value}} characters.",
+      "required": "This is required field."
+    },
+    "save": "Save"
+  },
+  "page": {
+    "home": "Home",
+    "fanshop": "Fanshop",
+    "cashless": "Cashless",
+    "profile": "Account",
+    "classic-tickets": "Tickets",
+    "season-pass": "Season pass",
+    "news": "News"
+  },
+  "user": {
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "E-mail",
+    "sex": "Sex",
+    "streetAddress": "Street Address",
+    "city": "City",
+    "zipCode": "ZIP Code",
+    "phone1": "Phone 1",
+    "phone2": "Phone 2",
+    "dateOfBirth": "Date of birth",
+    "sexItems": {
+      "male": "Male",
+      "female": "Female"
+    }
+  },
+  "seasonPass": {
+    "verifyReturnQuestion": "Do you really want to return the ticket?",
+    "noData": "No relevant data found.",
+    "ticketNumber": "Season ticket number: ",
+    "pastMatches": "Past matches",
+    "date": "Date",
+    "time": "Time",
+    "place": "Place"
+  },
+  "snackbar": {
+    "logout": "Logged out successfully.",
+    "success": "Task completed successfully."
+  },
+  "footer": {
+    "partners": "OFFICIAL PARTNERS",
+    "contacts": "Contacts",
+    "terms-and-conditions": "Terms and Conditions",
+    "personal-data": "Personal Data"
+  },
+  "loadingScreens": {
+    "layout": "Loading data..."
+  },
+  "main": {
+    "logout": "Logout"
+  },
+  "languages": {
+    "cs-CZ": "Čeština",
+    "sk": "Slovenčina",
+    "en": "English"
+  },
+  "account": {
+    "password": "Heslo"
+  },
+  "newsPage": {
+    "noNews": "There are no news yet.",
+    "collapse": "collapse",
+    "read": "read more",
+    "news": "New message!"
+  },
+  "home": {
+    "welcome": "Welcome to the team, ",
+    "happy": "Happy birthday!!!",
+    "buttonOpen": "Start fireworks",
+    "buttonClose": "Stop fireworks"
+  }
+}
