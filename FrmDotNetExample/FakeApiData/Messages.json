@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 68,
+    "DisplayOrder": 1,
+    "Title": " nadpis",
+    "Text": "ghfhfgh",
+    "ImageUrl": "/Image/105",
+    "Buttons": [
+      { "Id": 59, "Title": "tp", "Url": "https://www.ticketportal.sk/" },
+      { "Id": 77, "Title": "ch t", "Url": "https://www.checkticket.online/default.aspx?lang=sk" },
+      { "Id": 83, "Title": "ertewrtert", "Url": "www.post.sk" }
+    ]
+  },
+  {
+    "Id": 71,
+    "DisplayOrder": 2,
+    "Title": "tyuty",
+    "Text": "yrtuy",
+    "ImageUrl": "/Image/114",
+    "Buttons": []
+  }
+]

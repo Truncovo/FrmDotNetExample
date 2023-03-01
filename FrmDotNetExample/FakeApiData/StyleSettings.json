@@ -1,0 +1,61 @@
+{
+  "PageTitle": "Some Title",
+  "Images": {
+    "LogoImage": "/Image/116",
+    "BackgroundImage": "/Image/29",
+    "BackgroundImageOpacity": "25",
+    "MenuImage": "/Image/114",
+    "Favicon": "/Image/121",
+    "TouchFavicon": "/Image/117"
+  },
+  "TopBarBgColor": "#e76e36",
+  "TopSubBarBgColor": "#c2a042",
+  "TopSubBarTextColor": "#0716e9",
+  "TopBarTextColor": "#1411df",
+  "LeftBarBgColor": "#c9b6b6",
+  "LeftBarTextColor": "#0e42dd",
+  "PageBgColor": "#3c2b25",
+  "Partners": [
+    {
+      "Id": 31,
+      "Name": "aaaaaa",
+      "Logo": "/Image/29",
+      "Link": "werwer"
+    },
+    {
+      "Id": 35,
+      "Name": "moj sponzor",
+      "Logo": "/Image/105",
+      "Link": "mojsponzor123.mvp.com"
+    },
+    {
+      "Id": 40,
+      "Name": "android",
+      "Logo": "/Image/118",
+      "Link": "www.google.com"
+    },
+    {
+      "Id": 41,
+      "Name": "novy s",
+      "Logo": "/Image/104",
+      "Link": null
+    }
+  ],
+  "LegalTexts": [
+    {
+      "Id": 92,
+      "Title": "nadpis 1",
+      "Body": "<h1 style=\"text-align: center; \"><span style=\"color: var(--bs-body-color); font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">nadpis 1</span></h1><h2 style=\"text-align: left;\"><span style=\"color: var(--bs-body-color); font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">napdis 2</span></h2><h3 style=\"text-align: left;\"><span style=\"color: var(--bs-body-color); font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">napdis 3</span></h3><p style=\"text-align: left;\"><span style=\"color: var(--bs-body-color); font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">normalny text<br></span><span style=\"color: var(--bs-body-color); font-family: var(--bs-body-font-family); font-size: var(--bs-body-font-size); font-weight: var(--bs-body-font-weight); text-align: var(--bs-body-text-align);\">enter</span></p>"
+    },
+    {
+      "Id": 93,
+      "Title": "nadpis 2",
+      "Body": "<p>telo 2</p>"
+    },
+    {
+      "Id": 94,
+      "Title": "nadpis 3",
+      "Body": "<p>telo 3</p><p>enter</p>"
+    }
+  ]
+}
