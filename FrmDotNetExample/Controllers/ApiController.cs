@@ -7,12 +7,13 @@ using System.Net.Http;
 using System.Text;
 using System.Web;
 using System.Web.Http;
-
+using System.Web.Http.Cors;
 using System.Web.Mvc;
 using Newtonsoft.Json;
 
 namespace FrmDotNetExample.Controllers
 {
+    [EnableCors(origins: "http://localhost:3000", headers: "*", methods: "*")]
     public class AppApiController : ApiController
     {
         [System.Web.Http.AcceptVerbs("GET", "POST")]

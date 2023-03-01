@@ -8,6 +8,8 @@ namespace FrmDotNetExample
     {
         public static void Register(HttpConfiguration config)
         {
+            config.EnableCors();
+
             config.Routes.MapHttpRoute(
                 "Reports",
                 "api/{value}",
