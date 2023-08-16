@@ -1,0 +1,23 @@
+{
+  "user": {
+    "FirstName": "Meno",
+    "LastName": "Priezvisko",
+    "Email": "E-mail",
+    "IdGender": "Pohlavie",
+    "Address": "Adresa",
+    "City": "Mesto",
+    "Zip": "PSČ",
+    "Phone1": "Telefón 1",
+    "Phone2": "Telefón 2",
+    "BirthDate": "Dátum narodenia",
+    "Password": "Heslo",
+    "PasswordConfirm": "Potvrdiť heslo",
+    "PasswordsDoNotMatch": "Heslá sa nezhodujú. Prosím, skúste to znova.",
+    "sexItems": {
+      "male": "Muž",
+      "female": "Žena",
+      "other": "Iné"
+    }
+  },
+
+}

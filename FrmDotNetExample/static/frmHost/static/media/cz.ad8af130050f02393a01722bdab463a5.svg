@@ -1,0 +1,64 @@
+<svg
+    xmlnsInkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlnsRdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlnsCc="http://creativecommons.org/ns#"
+    xmlnsDc="http://purl.org/dc/elements/1.1/"
+    xmlnsSodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlnsSvg="http://www.w3.org/2000/svg"
+    xmlnsNs1="http://sozi.baierouge.fr"
+    xmlnsXlink="http://www.w3.org/1999/xlink"
+    id="svg378"
+    sodipodiDocname="czech_republic.svg"
+    viewBox="0 0 1063 708.66"
+    sodipodiVersion="0.32"
+    version="1"
+    inkscapeOutput_extension="org.inkscape.output.svg.inkscape"
+    y="0"
+    x="0"
+    inkscapeVersion="0.46"
+  >
+  <sodipodiNamedview
+      id="base"
+      bordercolor="#666666"
+      inkscapePageshadow="2"
+      guidetolerance="10.0"
+      pagecolor="#ffffff"
+      gridtolerance="10.0"
+      inkscapeZoom="0.51176399"
+      objecttolerance="10.0"
+      borderopacity="1.0"
+      inkscapeCurrent-layer="svg378"
+      inkscapeCx="531.495"
+      inkscapeCy="354.33051"
+      inkscapeWindow-y="199"
+      inkscapeWindow-x="0"
+      inkscapeWindow-height="704"
+      showgrid="false"
+      inkscapePageopacity="0.0"
+      inkscapeWindow-width="952"
+  />
+  <rect
+      id="rect149"
+      style="fill-rule:evenodd;stroke-width:1pt;fill:#e80000"
+      height="708.66"
+      width="1063"
+      y="0"
+      x="0"
+  />
+  <rect
+      id="rect280"
+      style="fill-rule:evenodd;stroke-width:1pt;fill:#ffffff"
+      height="354.33"
+      width="1063"
+      y="0"
+      x="0"
+  />
+  <path
+      id="path279"
+      style="fill-rule:evenodd;stroke-width:1pt;fill:#00006f"
+      transform="matrix(.86847 0 0 1 0 -.000023970)"
+      d="m0 0l609.96 353.88-609.96 353.42v-707.3z"
+  />
+</svg
+>

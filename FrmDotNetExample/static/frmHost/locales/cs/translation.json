@@ -1,0 +1,50 @@
+{
+  "page": {
+    "dashboards": "Dashboardy",
+    "filterCustomer": "Zákazníci",
+    "filterTicketing": "Ticketing",
+    "filterSeasontickets": "Permanentky",
+    "filterTransactions": "Transakce",
+    "campaignEmail": "Emailové kampaně",
+    "campaignEmailtemplate": "Šablony kampaní",
+    "campaignFanweb": "Zprávy do fanvebu",
+    "tags": "Nastavení tagů",
+    "profile": "Můj profil",
+    "campaigns": "Kampaně",
+    "filters": "Filtry",
+    "fanweb": "Nastavení Fanwebu",
+    "settings": "Nastavení"
+  },
+  "user": {
+    "FirstName": "Jméno",
+    "LastName": "Příjmení",
+    "Email": "E-mail",
+    "IdGender": "Pohlaví",
+    "Address": "Adresa",
+    "City": "Město",
+    "Zip": "PSČ",
+    "Phone1": "Telefon 1",
+    "Phone2": "Telefon 2",
+    "BirthDate": "Datum narození",
+    "Password": "Heslo",
+    "PasswordConfirm": "Potvrdit heslo",
+    "PasswordsDoNotMatch": "Hesla se neshodují. Zkuste to prosím znovu.",
+    "sexItems": {
+      "male": "Muž",
+      "female": "Žena",
+      "other": "Jiné"
+    }
+  },
+  "dashboards": {
+    "Main": "Hlavní přehled",
+    "Campaigns": "Komunikace",
+    "Transactions": "Transakce",
+    "SeasonTickets": "Permanentky",
+    "Fans": "Fanoušci",
+    "CampaignDetail": "Statistiky kampaní"
+  },
+  "emails": {
+    "Title": "Emailové kampaně"
+  }
+
+}

@@ -19,7 +19,7 @@ namespace FrmDotNetExample.Helpers
         public static void Init(HttpServerUtility server)
         {
 
-            _html = File.ReadAllText(server.MapPath("~/static/frm/index.html"));
+            _html = File.ReadAllText(server.MapPath("~/static/frmHost/index.html"));
             
         }
 

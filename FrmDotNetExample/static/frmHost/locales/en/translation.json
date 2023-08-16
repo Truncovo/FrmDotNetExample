@@ -1,0 +1,34 @@
+{
+
+  "page": {
+    "dashboards": "Home",
+    "filterCustomer": "Fanshop",
+    "filterTicketing": "Cashless",
+    "filterSeasontickets": "My account",
+    "filterTransactions": "Tickets",
+    "campaignEmail": "Season tickets",
+    "campaignEmailtemplate": "News",
+    "tags": "News",
+    "profile": "My Profile"
+  },
+  "user": {
+    "FirstName": "Fisrt name",
+    "LastName": "Surname",
+    "Email": "Email",
+    "IdGender": "Gender",
+    "Address": "Address",
+    "City": "City",
+    "Zip": "Postcode",
+    "Phone1": "Phone 1",
+    "Phone2": "Phone 2",
+    "BirthDate": "Date of birth",
+    "Password": "Password",
+    "PasswordConfirm": "Confirm password",
+    "PasswordsDoNotMatch": "Passwords do not match. Please try again.",
+    "sexItems": {
+      "male": "Male",
+      "female": "Female",
+      "other": "Other"
+    }
+  }
+}
